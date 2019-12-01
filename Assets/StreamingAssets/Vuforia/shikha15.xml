@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CEVAFLEXIN" size="10.000000 13.388090" />
+    <ImageTarget name="cephalexin" size="10.000000 10.000000" />
+    <ImageTarget name="Package_23724" size="10.000000 6.954732" />
+    <ImageTarget name="AZITHROMYCIN" size="10.000000 10.000000" />
+    <ImageTarget name="Norvasc" size="10.000000 10.000000" />
+    <ImageTarget name="AMLODIPINE" size="10.000000 4.682423" />
+    <ImageTarget name="640px-Zantac" size="10.000000 12.906250" />
+    <ImageTarget name="zinetac-150mg-tablet-30-s-45700313" size="10.000000 10.683333" />
+    <ImageTarget name="METOPAR-5-MG" size="10.000000 9.041667" />
+    <ImageTarget name="index43" size="10.000000 6.285714" />
+    <ImageTarget name="ccccc1" size="10.000000 7.500000" />
+    <ImageTarget name="cc1" size="10.000000 7.500000" />
+  </Tracking>
+</QCARConfig>
